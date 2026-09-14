@@ -1,0 +1,31 @@
+:root {
+  /* Color */
+  --ink: #101828;
+  --ink-soft: #4b5364;
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --border: #e2e1dc;
+  --brand: #145c54;
+  --brand-dark: #0d413b;
+  --brand-tint: #e7f0ee;
+
+  --status-pending: #b45309;
+  --status-pending-bg: #fdf3e7;
+  --status-assigned: #1d4ed8;
+  --status-assigned-bg: #eaf0fe;
+  --status-progress: #7c3aed;
+  --status-progress-bg: #f3ecfd;
+  --status-resolved: #15803d;
+  --status-resolved-bg: #e9f6ed;
+  --danger: #b91c1c;
+  --danger-bg: #fbeaea;
+
+  /* Type */
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  /* Shape */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --shadow-card: 0 1px 2px rgba(16, 24, 40, 0.06);
+}
